@@ -328,7 +328,7 @@ p.note { display: none; }
 <a href="20261019_00001.png" target="_blank"><img src="20261019_00001.png" alt="サンプル画像" class="responsive-media"></a>
 -->
 
-<h2><span class="yellow">ベルモール地下駐車場への入庫と出庫走行動画</span></h2>
+<h2><span class="yellow">ベルモール地下駐車場への入庫から出庫までの走行動画</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jN2MTc4yarM?si=HgQ87fb84ZbrPtJl&autoplay=1&mute=1&loop=1&playlist=jN2MTc4yarM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
